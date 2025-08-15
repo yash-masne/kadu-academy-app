@@ -18,7 +18,7 @@
       "android": {
         "default": {
           "projectId": "kadu-academy",
-          "appId": "1:21669021948:android:e33e6a51c30e2cb111af79",
+          "appId": "1:21669021948:android:e33e6a51c30e2XXXXXXXXX",
           "fileOutput": "android/app/google-services.json"
         }
       },
@@ -26,7 +26,7 @@
         "lib/firebase_options.dart": {
           "projectId": "kadu-academy",
           "configurations": {
-            "android": "1:21669021948:android:e33e6a51c30e2cb111af79"
+            "android": "1:21669021948:android:e33e6a51c30e2XXXXXXXXX"
           }
         }
       }
