@@ -7,7 +7,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:21669021948:android:e33e6a51c30e2cb111af79",
+        "mobilesdk_app_id": "1:21669021948:android:e33e6a51c30e2XXXXXXXXX",
         "android_client_info": {
           "package_name": "com.kaduacademy.app"
         }
@@ -18,24 +18,24 @@
           "client_type": 1,
           "android_info": {
             "package_name": "com.kaduacademy.app",
-            "certificate_hash": "7d36680f6d3b378ca8756379814d4e98b6e5d99a"
+            "certificate_hash": "7d36680f6d3b378ca8756379814d4XXXXXXXXX"
           }
         },
         {
-          "client_id": "21669021948-i24suhl40chm8hnc8dhc1b9ndieielg1.apps.googleusercontent.com",
+          "client_id": "21669021948-i24suhl40chm8hnc8XXXXXXXXXeielg1.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDFGk_EGi5XD3IG6y0tEEZ-LH3GBn1_49M"
+          "current_key": "AIzaSyDFGk_EGi5XD3IG6y0tEEZ-LH3GXXXXXXXXX"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "21669021948-i24suhl40chm8hnc8dhc1b9ndieielg1.apps.googleusercontent.com",
+              "client_id": "21669021948-i24suhl40chm8hnc8dhcXXXXXXXXXlg1.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
