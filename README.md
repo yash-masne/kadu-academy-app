@@ -1,21 +1,3 @@
-<<<<<<< HEAD
-# student_livestream_app_new
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # Kadu Academy Mobile App
 
 ## Project Overview
@@ -91,5 +73,4 @@ Follow these steps to set up the project locally.
     flutter run
     ```
 
-    (Ensure a device or emulator is connected) 
->>>>>>> 54111528c54ac2ec8fb800487ea77a40775c4cfa
+    (Ensure a device or emulator is connected)
