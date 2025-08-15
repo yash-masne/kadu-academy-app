@@ -1,0 +1,35 @@
+{
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "runtime": "nodejs20",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ]
+    }
+  ],
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "kadu-academy",
+          "appId": "1:21669021948:android:e33e6a51c30e2cb111af79",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "kadu-academy",
+          "configurations": {
+            "android": "1:21669021948:android:e33e6a51c30e2cb111af79"
+          }
+        }
+      }
+    }
+  }
+}

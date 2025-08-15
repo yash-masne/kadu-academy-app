@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "21669021948",
+    "project_id": "kadu-academy",
+    "storage_bucket": "kadu-academy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21669021948:android:e33e6a51c30e2cb111af79",
+        "android_client_info": {
+          "package_name": "com.kaduacademy.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21669021948-i042odfs977in1uhfq4htghe2jbe24o6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kaduacademy.app",
+            "certificate_hash": "7d36680f6d3b378ca8756379814d4e98b6e5d99a"
+          }
+        },
+        {
+          "client_id": "21669021948-i24suhl40chm8hnc8dhc1b9ndieielg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFGk_EGi5XD3IG6y0tEEZ-LH3GBn1_49M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21669021948-i24suhl40chm8hnc8dhc1b9ndieielg1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
