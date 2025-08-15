@@ -73,4 +73,4 @@ Follow these steps to set up the project locally.
     flutter run
     ```
 
-    (Ensure a device or emulator is connected)
+    (Ensure a device or emulator is connected) 
