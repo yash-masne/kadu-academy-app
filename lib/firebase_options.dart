@@ -53,11 +53,11 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDFGk_EGi5XD3IG6y0tEEZ-LH3GBn1_49M', // Updated API Key
-    appId: '1:21669021948:android:e33e6a51c30e2cb111af79', // Updated App ID
+    apiKey: 'AIzaSyDFGk_EGi5XD3IG6y0tEEZ-XXXXXXXXX', // Updated API Key
+    appId: '1:21669021948:android:e33e6a51c30e2cXXXXXXXXX', // Updated App ID
     messagingSenderId:
-        '21669021948', // Updated Messaging Sender ID (project_number)
+        '21669XXXXXXXXX', // Updated Messaging Sender ID (project_number)
     projectId: 'kadu-academy', // Updated Project ID
-    storageBucket: 'kadu-academy.firebasestorage.app', // Updated Storage Bucket
+    storageBucket: 'XXXXXXXXX.firebasestorage.app', // Updated Storage Bucket
   );
 }
